@@ -382,7 +382,7 @@ function loadHistory(page) {
 </script>
 
     <footer class="main-footer">
-        <p>© 2026 <strong>ECHO-GLANCE</strong> - Dual-Layer Eye Blink Messenger · ppns</p>
+        <p>© 2026 <strong>ECHO-GLANCE</strong> - Dual-Layer Eye Blink Messenger · IT COMP</p>
     </footer>
 
     <script>lucide.createIcons();</script>
